@@ -16,7 +16,7 @@ string twoSum(int n, vector<int> &arr, int target) {
 }
 
 
-Time Complexity: O(N) + O(N*logN), where N = size of the array.
-Reason: The loop will run at most N times. And sorting the array will take N*logN time complexity.
+// Time Complexity: O(N) + O(N*logN), where N = size of the array.
+// Reason: The loop will run at most N times. And sorting the array will take N*logN time complexity.
 
-Space Complexity: O(1) as we are not using any extra space.
+// Space Complexity: O(1) as we are not using any extra space.
